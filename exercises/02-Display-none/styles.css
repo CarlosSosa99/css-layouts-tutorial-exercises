@@ -1,4 +1,18 @@
 /* your code here */
-.h2 {display:none;
+.h2 {
+	display: none;
+}
+#myFirstH2 {
+	display: none;
+}
+#mySecondH2 {
+	display: none;
+}
 
+.ul {
+	list-style: none;
+	display: inline;
+}
+.strong {
+	display: block;
 }
